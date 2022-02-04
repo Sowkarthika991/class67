@@ -1,1 +1,2 @@
-Anuroop is learnig coding.
+Anuroop is learnig code.
+His teacher name is sowkarthika.
